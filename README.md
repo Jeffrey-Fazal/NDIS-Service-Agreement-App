@@ -4,6 +4,8 @@ A free, open-source React app for NDIS service providers. It forecasts support h
 
 Deployed via Cloudflare Pages.
 
+View the live demo here: https://ndis-sa-generator.pages.dev/
+
 ## Setup
 
 ### Prerequisites
